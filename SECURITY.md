@@ -10,6 +10,6 @@ The following versions have support by the development team:
 
 ## Reporting a Vulnerability
 
-To report vulnerabilities, please contact kaamadan.std@gmail.com.
+To report vulnerabilities, please contact kaamadan.std@gmail.com, or start a discussion.
 
 Updates are likely to be released in weekends, unless it's to solve a critical vulnerability (like ransomware, project corruption, etc...)
