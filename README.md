@@ -1,7 +1,7 @@
-# JokeSUpreme
-With JokeSUpreme, you can easily add jokes to your projects with a simple function.
+# Joke_S_Upreme
+With Joke_S_Upreme, you can easily add jokes to your projects with a simple function.
 
-Example without JokeSUpreme:
+Example without Joke_S_Upreme:
 
 print ("Long and hard to type joke")
 
@@ -9,6 +9,6 @@ print ("Long and hard to type joke")
 
 With JokeSUpreme:
 
-import jokesupreme
+import jokes
 
-jokesupreme.joke_1()
+jokes.joke_1()
