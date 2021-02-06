@@ -23,5 +23,10 @@ def joke_10():
     print ("These were the 10 horsemen of jokes.")
 def joke_11():
     print ("I lied, there's another.")
+def joke_12():
+    print("Use Python for AI.")
+    print("Use C++ for games.")
+    print("Use JS for web apps.")
+    print("Don't use PHP.")
 def propa_joke():
     print ("Propa- Jokes given by Russia.")
