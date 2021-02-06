@@ -7,6 +7,7 @@ The following versions have support by the development team:
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | Yes                |
+| 1.1.x   | Yes                |
 
 ## Reporting a Vulnerability
 
