@@ -28,5 +28,17 @@ def joke_12():
     print("Use C++ for games.")
     print("Use JS for web apps.")
     print("Don't use PHP.")
+def joke_13():
+    print ("Setting indexing spaces...")
+    print ("Installing 476 packages...")
+    print ("Getting system info...")
+    print ("Great! I can run Hello World so fast!")
+def joke_14():
+    print ("But mum, I need an i9 10900K!")
+    print ("Else my study Word documents will go slow.")
+def joke_15():
+    print ("This is the joke number 15. That's it.")
+def hello_joke():
+    print ("Hello. This message was NOT sent automatically.")
 def propa_joke():
-    print ("Propa- Jokes given by Russia.")
+    print ("Propa- Jokes sponsored by Russia.")
